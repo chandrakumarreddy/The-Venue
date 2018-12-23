@@ -1,6 +1,7 @@
 External npm Packages used in the project are :-
 
 1. React slick (usage as follows)
+
    -Refer carousel.js file for more details
 2. React Reveal
    -Refer TimeUntil.js file for more details
