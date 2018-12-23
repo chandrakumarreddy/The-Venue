@@ -4,6 +4,8 @@ External npm Packages used in the project are :-
 
    -Refer carousel.js file for more details
 2. React Reveal
+
    -Refer TimeUntil.js file for more details
 3. React scroll
+
    -Refer SideDrawer and App fro more details
